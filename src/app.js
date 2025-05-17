@@ -22,5 +22,5 @@ app.use("/api/v1/book",bookRouter);
 import errorHandler from "./middelweres/error.middelwere.js";
 
 
-// app.use(errorHandler)
+app.use(errorHandler)
 export { app };
