@@ -1,0 +1,1 @@
+This is a RESTful API built with Node.js, Express, and MongoDB for managing books. It includes features such as creating, updating, fetching, and deleting books with JWT authentication.
